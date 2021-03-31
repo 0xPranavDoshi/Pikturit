@@ -1,4 +1,4 @@
 @echo off
 cls
-python "D:\prana\Programming\My Projects\Pikturit\pikturit.py" %1
+python "D:\prana\Programming\My Projects\Pikturit Project\Pikturit\pikturit.py" %1
 pause
