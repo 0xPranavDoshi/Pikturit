@@ -1,7 +1,7 @@
 import winreg
 import os
 
-appdata_dir = r'C:\Users\prana\AppData\Local\Programs\Python\Python39\python.exe" "D:\prana\Programming\My Projects\Pikturit Project\Pikturit\pikturit.py'
+appdata_dir = r'C:\Users\prana\AppData\Local\Programs\Python\Python39\python.exe" "D:\prana\Programming\My Projects\Pikturit\pikturit.py'
 winreg.CreateKey(winreg.HKEY_CLASSES_ROOT,
                  R'SystemFileAssociations\image\shell\Pikturit')
 winreg.CreateKey(winreg.HKEY_CLASSES_ROOT,
