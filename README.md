@@ -10,7 +10,7 @@ Download the latest version of Pikturit from the [Releases Page](https://github.
 
 Python is the only necessary tool required for the script to work
 
-# Creater
+# Creator
 
 Pranav Doshi
 
