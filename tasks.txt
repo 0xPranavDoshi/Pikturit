@@ -1,0 +1,9 @@
+INSTALLER
+1. First check if python is installed, if not - prompt user to download python and install install
+2. Create a folder in program files or appdata for our application
+3. Copy all the bat files, python scripts in the application folder
+4. Create registry entries for context menu
+
+UNINSTALLER
+1. Delete application folder
+2. Delete registry entries for context menu

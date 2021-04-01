@@ -40,7 +40,7 @@ class Ui_MainWindow(object):
         self.height = _height
         self.aspect_ratio = _width / _height
 
-        MainWindow.setObjectName("MainWindow")
+        MainWindow.setObjectName("Pikturit")
         MainWindow.resize(350, 225)
         sizePolicy = QtWidgets.QSizePolicy(
             QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Fixed)
