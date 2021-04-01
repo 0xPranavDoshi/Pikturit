@@ -31,8 +31,8 @@ WizardStyle=modern
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
-Source: "D:\prana\Programming\My Projects\Pikturit Project\Pikturit\pikturit.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\prana\Programming\My Projects\Pikturit Project\Pikturit\pikturit.py"; DestDir: "{app}"; Flags: ignoreversion
+Source: "D:\prana\Programming\My Projects\Pikturit\pikturit.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "D:\prana\Programming\My Projects\Pikturit\pikturit.py"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

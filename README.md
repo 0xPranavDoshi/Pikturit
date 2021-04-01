@@ -6,6 +6,12 @@ Pikturit is an extremely easy and fast way for Windows users to resize their ima
 
 Download the latest version of Pikturit from the [Releases Page](https://github.com/Cybernetic77/Pikturit/releases/tag/v1.0.0)
 
+After completing the download, run the installer and follow the simple installation prompts.
+
+Right click on any image file on your computer.
+
+Click on the Pikturit option to resize the image.
+
 # Requirements
 
 Python is the only necessary tool required for the script to work
