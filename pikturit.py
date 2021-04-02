@@ -152,11 +152,11 @@ class Ui_MainWindow(object):
         image_file = '\\'.join(image_file)
         print(f"image_file is {image_file}")
         newImage.save(image_file, end)
-        exit()
+        sys.exit()
 
     def reject(self):
         print("Clicked cancel")
-        exit()
+        sys.exit()
 
     def changedRadio(self, pixel, ogwidth, ogheight):
         print(f"Radio pixels is {pixel}")
