@@ -12,10 +12,6 @@ Right click on any image file on your computer.
 
 Click on the Pikturit option to resize the image.
 
-# Requirements
-
-Python is the only necessary tool required for the script to work
-
 # Creator
 
 Pranav Doshi
