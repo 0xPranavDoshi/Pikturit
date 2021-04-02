@@ -19,7 +19,7 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
-LicenseFile=D:\prana\Programming\My Projects\Pikturit Project\Pikturit\LICENSE.txt
+LicenseFile=D:\prana\Programming\My Projects\Pikturit\LICENSE.txt
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputBaseFilename=pikturit_setup
@@ -40,5 +40,4 @@ Name: "{group}\{cm:UninstallProgram,{#MyAppName}}"; Filename: "{uninstallexe}"
 
 [Registry]
 Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit"; ValueType: string; ValueData: "Pikturit"; Flags: uninsdeletekey
-Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit\command"; ValueType: string; ValueData: "{app}\pikturit.bat %1";
-
+Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit\command"; ValueType: string; ValueData: """{app}\pikturit.bat"" ""{app}"" %1";

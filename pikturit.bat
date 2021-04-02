@@ -1,3 +1,4 @@
 @echo off
 cls
-python "./pikturit.py" %1
+set mypath=%1\pikturit.py
+python %mypath% %2
