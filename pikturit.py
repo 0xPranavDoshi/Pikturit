@@ -1,10 +1,8 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import *
-from PyQt5 import QtWidgets, uic
+from PyQt5 import QtWidgets
 import sys
-import subprocess
 from PIL import Image
-import math
 
 
 def main():
