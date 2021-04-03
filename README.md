@@ -4,7 +4,7 @@ Pikturit is an extremely easy and fast way for Windows users to resize their ima
 
 # Usage
 
-Download the latest version of Pikturit from the [Releases Page](https://github.com/Cybernetic77/Pikturit/releases/tag/v1.1.0)
+Download the latest version of Pikturit from the [Releases Page](https://github.com/Cybernetic77/Pikturit/releases)
 
 After completing the download, run the installer and follow the simple installation prompts.
 
