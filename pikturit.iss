@@ -23,7 +23,7 @@ LicenseFile=D:\prana\Programming\My Projects\Pikturit\LICENSE.txt
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputBaseFilename=pikturit_setup
-Compression=lzma
+Compression=lzma2/ultra64
 SolidCompression=yes
 WizardStyle=modern
 
@@ -36,4 +36,6 @@ Source: "D:\prana\Programming\My Projects\Pikturit\dist\pikturit\*"; DestDir: "{
 
 [Registry]
 Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit"; ValueType: string; ValueData: "Pikturit"; Flags: uninsdeletekey
-Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit\command"; ValueType: string; ValueData: """{app}\pikturit.exe"" %1";
+Root: HKCR; Subkey: "SystemFileAssociations\image\shell\Pikturit\command"; ValueType: string; ValueData: """{app}\pikturit.exe"" ""%1""";
+Root: HKCR; Subkey: "Directory\shell\Pikturit"; ValueType: string; ValueData: "Pikturit"; Flags: uninsdeletekey
+Root: HKCR; Subkey: "Directory\shell\shell\Pikturit\command"; ValueType: string; ValueData: """{app}\pikturit.exe"" ""%1""";

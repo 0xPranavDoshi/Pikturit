@@ -1,4 +1,9 @@
 dist/
 build/
 Output/
-__pychache__/
+__pycache__/
+Lib/
+Scripts/
+Include/
+.vscode/
+pyvenv.cfg
