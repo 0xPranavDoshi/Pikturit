@@ -8,9 +8,9 @@ Download the latest version of Pikturit from the [Releases Page](https://github.
 
 After completing the download, run the installer and follow the simple installation prompts.
 
-Right click on any image file on your computer.
+Right click on any image file or folder on your computer.
 
-Click on the Pikturit option to resize the image.
+Click on the Pikturit option to resize the image or all the images in that folder.
 
 # Creator
 
