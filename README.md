@@ -18,4 +18,4 @@ Pranav Doshi
 
 # Supporters
 
-[![Stargazers repo roster for @Cybernetic77/Pikturit](https://reporoster.com/stars/Cybernetic77/Pikturit)](https://github.com/Cybernetic77/Pikturit)
+[![Stargazers repo roster for @ZaphodElevated/Pikturit](https://reporoster.com/stars/ZaphodElevated/Pikturit)](https://github.com/ZaphodElevated/Pikturit)
